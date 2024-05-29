@@ -1,0 +1,7 @@
+{
+    "label": "Thumbify",
+    "icon": "icon.png",
+    "iconsel": "icon.png",
+    "launch": "launch.sh",
+    "description": "Creates a thumbnail from a screenshot"
+}
